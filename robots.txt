@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://tairevil.github.io/sitemap.html.gz
+Sitemap: https://tairevil.github.io/app/sitemap.html.gz
+Sitemap: https://tairevil.github.io/assets/sitemap.html.gz
+Sitemap: https://tairevil.github.io/css/sitemap.html.gz
+Sitemap: https://tairevil.github.io/includes/sitemap.html.gz
+Sitemap: https://tairevil.github.io/item/sitemap.html.gz
+Sitemap: https://tairevil.github.io/src/sitemap.html.gz
